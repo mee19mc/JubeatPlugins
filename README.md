@@ -1,6 +1,6 @@
-# Asphyxia CORE Community Plugins
+# The Jubeat Plugin for Asphyxia CORE.
 
-These plugins are provided by community members and considered officially supported by Team Asphyxia.
+This plugin (jubeat@asphyxia) is a compilation with game switch support, allowing various versions of J44, K44, and L44 to run. H44 and I44 are currently being considered, but are not of current priority.
 
 ## How to use it?
 
