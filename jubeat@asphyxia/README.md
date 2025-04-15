@@ -1,6 +1,6 @@
 # Jubeat
 
-Plugin Version: **v1.5.0**
+Plugin Version: **v1.50.rev00.build000**
 
 ### Supported Versions
 
@@ -12,6 +12,23 @@ Plugin Version: **v1.5.0**
 - copious APPEND
 - saucer
 - saucer fulfill
+
+### Planned Versions
+
+***
+
+Attempting to merge code:
+ - festo
+ - Avenue (CZE Ave.)
+
+Attempting to implement Score saving only:
+ - prop
+ - Qubell
+ - clan
+
+Attenpting to make it connect (No Score Saving yet):
+ - jubeat
+ - ripples
 
 ### Changelogs
 
