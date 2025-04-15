@@ -96,6 +96,7 @@ module.exports = (data: Profile) => ({
     checked_flag: K.ITEM("u32", 0),          // Migrated
   },
 
+//saucer fulfill macchiato event leftover code
   macchiato: {
     pack_id: K.ITEM("s32", 0),
     bean_num: K.ITEM("u16", 0),
