@@ -1,4 +1,34 @@
-# The Jubeat Plugin for Asphyxia CORE.
+ # The Ultimate CORE PLUGINS
+These plugins are highly experimental so it has a extremely high tendency to break.
+
+## Plans
+1. Import duel0213 iidx plugin for version support
+
+- beatmaniaIIDX 14 GOLD - beatmania IIDX 32
+- Add CO2-FDD support?
+2. Upgrade GITADORA plugin for version support
+
+- Existing: matixx - Fuzz-up
+- TBA#1: RE-EVOLVE, Galaxy Wave (STUB)
+- TBA#2: GITADORA - TRI-BOOST
+- TBA#3: GFDM V5-V7 (merge existing server)
+- TBA#4: GD XG/XG2+V8
+- TBA#5: GD XG3 & V4
+
+3. MERGE SDVX EG & DDR WORLD (22vv0)
+- and codebase when possible...
+
+4. MERGE jubeat codebase for J44-L44, outlined below.
+
+- TBA#1: Merge festo trial?
+- TBA#2: Merge Ave. and btAve.
+- TBA#3: Add H44 & I44 support?
+
+- side: Expand Game Datecodes for wide range of versions.
+
+5. Upgrade pop'n music plugin for version support (everything to n-0)
+
+## The Jubeat Plugin for Asphyxia CORE
 
 This plugin (jubeat@asphyxia) is a compilation with game switch support, allowing various versions of J44, K44, and L44 to run. H44 and I44 are currently being considered, but are not of current priority.
 
